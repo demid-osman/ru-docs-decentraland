@@ -22,7 +22,8 @@
 ## Создание
 
 * [Создание контента](sozdanie/sozdanie-kontenta.md)
-* [Опыт проектиирования](sozdanie/opyt-proektiirovaniya.md)
+* [Опыт проектиирования](sozdanie/opyt-proektiirovaniya/README.md)
+  * [Руководство по MVP](sozdanie/opyt-proektiirovaniya/rukovodstvo-po-mvp.md)
 * [Билдер](sozdanie/bilder.md)
 * [Носимые устройства](sozdanie/nosimye-ustroistva.md)
 * [SDK](sozdanie/sdk.md)

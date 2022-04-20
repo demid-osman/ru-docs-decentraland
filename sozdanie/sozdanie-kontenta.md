@@ -29,7 +29,7 @@ Builder использует Decentraland SDK под капотом, генер�
 
 Или прочитайте [документацию](https://docs.decentraland.org/development-guide/entities-components/), чтобы понять некоторые фундаментальные концепции.
 
-### Ярлыки SDK
+### Разделы
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
